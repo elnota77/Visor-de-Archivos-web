@@ -1,0 +1,12 @@
+version: '3'
+services:
+  web-file-manager:
+    build: .
+    ports:
+      - "3000:3000"
+    volumes:
+      - c:/:/data/c
+      - d:/:/data/d
+      # - e:/:/data/e
+    environment:
+      - AUTH_PASSWORD=admin
