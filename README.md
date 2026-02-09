@@ -1,6 +1,6 @@
 # Visor de Archivos Web (Web File Manager)
 
-Un administrador de archivos web moderno y minimalista inspirado en el diseño de paneles duales (estilo Total Commander), construido con **Next.js 14**, **Tailwind CSS** y **TypeScript**.
+Un administrador de archivos web moderno y minimalista inspirado en el diseño de paneles duales (estilo Total Commander). **Este proyecto ha sido generado íntegramente mediante IA con Google Antigravity**, utilizando **Next.js 14**, **Tailwind CSS** y **TypeScript**.
 
 ![Vibe](https://img.shields.io/badge/UX-Premium-blueviolet?style=for-the-badge)
 ![Tech](https://img.shields.io/badge/Stack-Next.js%20|%20React%20|%20Tailwind-000000?style=for-the-badge&logo=next.js)
@@ -71,4 +71,4 @@ El gestor se puede configurar mediante variables de entorno:
 
 Desarrollado con ❤️ para una gestión de archivos eficiente.
 
-*Documentación generada con IA mediante **Google Antigravity**.*
+*Proyecto y documentación generados íntegramente con IA mediante **Google Antigravity**.*
