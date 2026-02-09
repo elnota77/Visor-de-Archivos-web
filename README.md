@@ -70,3 +70,5 @@ El gestor se puede configurar mediante variables de entorno:
 ---
 
 Desarrollado con ❤️ para una gestión de archivos eficiente.
+
+*Documentación generada con IA mediante **Google Antigravity**.*
